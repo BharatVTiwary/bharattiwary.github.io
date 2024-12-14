@@ -17,45 +17,73 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Amazon
+  title-url: https://amazon.com/
+  date: Aug 2022 - Present
+  subtitle: Softwre Development Engineer II
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Java
+    - tag: Python
+    - tag: SQL
+    - tag: Typescript
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Arizona State University
+  title-url: https://www.asu.edu/
+  date: Jan 2021 - May 2023
+  subtitle: M.S. Computer Science
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Nielsen
+  title-url: https://nielsen.com/
+  date: May 2018 - July 2022
+  subtitle: Senior Software Engineer
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Java
+    - tag: Python
+    - tag: Angular
+    - tag: SQL
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Nielsen
+  title-url: https://nielsen.com/
+  date: Jun 2017 - Aug 2017
+  subtitle: Technology Intern
+  tags:
+    - tag: Java
+    - tag: SQL
+  timeline-side: left
+
+- title: Arizona State University
+  title-url: https://www.asu.edu/
+  date: 2016 - 2018
+  subtitle: M.Sc. Electrical Engineering
+  timeline-side: right
+
+- title: Bosch, Germany
+  title-url: https://www.bosch-softwaretechnologies.com/en/
+  date: Jun 2014 - Jul 2016
+  subtitle: Senior Software Engineer
+  tags:
+    - tag: Dspace
+    - tag: CAPL
+    - tag: C#
+    - tag: SQL
+  timeline-side: left
+
+- title: Bosch, India
+  title-url: https://www.bosch-softwaretechnologies.com/en/
+  date: Jun 2012 - May 2014
+  subtitle: Software Engineer
+  tags:
+    - tag: Dspace
+    - tag: CAPL
+    - tag: C#
+    - tag: SQL
+  timeline-side: right
+
+- title: Siddaganga Institute of Technology, VTU
+  title-url: https://sit.ac.in/
+  date: 2008 - 2012
+  subtitle: B.E. Electronics & Communication Engineering
   timeline-side: left

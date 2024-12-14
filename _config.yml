@@ -14,7 +14,7 @@ baseurl: ""
 username: Bharat VIshal Tiwary
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Software Development Engineer
+typing_text: SDE II @ Amazon
 # email: Your E-Mail address for the email button.
 email: bharatbvt@gmail.com
 # For every social button you want to display, set your username or userid
@@ -22,9 +22,9 @@ email: bharatbvt@gmail.com
 # > twitter_username:
 github_username: BharatVTiwary
 codepen_username: 
-dev_username: 
+dev_username: bharattiwary
 linkedin_username: bharattiwary
-twitter_username: 
+twitter_username: bharattiwary
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Bharat is a seasoned software developer with over 12 years of experience in web application development, big data processing, and cutting-edge technologies like machine learning and artificial intelligence. He holds dual Master’s degrees in Computer Science and Electrical & Electronics Engineering from Arizona State University, both attained with a perfect GPA.<br/>Currently, Bharat serves as a Software Development Engineer at Amazon, where he designs large-scale compliance orchestration systems to ensure that process billions of inventory daily to ensure compliance while maintaining operational efficiency. 
 
 # SKILLS SECTION
 # show_skills_card:
@@ -81,12 +81,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Happy to connect with fellow technology nerds to guide them master Modern Software Engineering practices and solving complex challenges effectively.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: bharatvtiwary/bharatvtiwary.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -110,7 +110,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: "GTM-TVMW39MK"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
